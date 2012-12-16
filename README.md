@@ -3,7 +3,7 @@
 Iterates over a list concurrently while processing each item in parallel
 
 ##Example usage
-Takes a list of Foo objects, for every object, it multiplies the value **`in`** with 10 and writes the result to **`out`**.
+Takes a list of Foo objects, for every object, it multiplies the value `in` with 10 and writes the result to `out`.
 This example employs **100** threads for this operation. The custom logic is implemented in the `Consumer` interface.
 ###Foo.java:
     public class Foo {
