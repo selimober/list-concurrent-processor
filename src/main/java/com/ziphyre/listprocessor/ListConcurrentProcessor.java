@@ -1,4 +1,4 @@
-package com.ziphyre.listprocessor;
+package com.selimober.listprocessor;
 
 /**
  * Utilities for processing lists concurrently.
